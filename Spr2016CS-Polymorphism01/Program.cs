@@ -1,4 +1,4 @@
-﻿// Project: Spring2016CS-Polymorphism01
+// Project: Spring2016CS-Polymorphism01
 // FileName: Program.cs
 // Author: F. Moses
 // Date: Feb 11, 2016
