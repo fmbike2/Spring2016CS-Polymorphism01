@@ -39,7 +39,7 @@ namespace Spr2016CS_Polymorphism01
                             basePlusCommissionEmployee.ToString(), "Earnings",
                             basePlusCommissionEmployee.Earnings());
 
-            // Invoke ToString and Earnings on dericed class onject using base class variable
+            // Invoke ToString and Earnings on derived class onject using base class variable
             CommissionEmployee commissionEmployee2 = new CommissionEmployee();
             Console.WriteLine("{0} {1}:\n\n{2}\n  {3}: {4:C}\n",
                             "Call BasePlusCommissionEmployee's's ToString and Earnings methods",
